@@ -1,0 +1,3 @@
+
+GUI_Core.c:
+No display driver has been added in _InitContext().
